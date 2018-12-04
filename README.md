@@ -13,3 +13,5 @@ For those who are just beginning to learn more about machine learning, I can who
 - Andrej Karpathy's blog (https://medium.com/@karpathy): This apparently happens when somebody who knows a topic deeply takes the time to explain it to the rest of us - pure gold! 
 
 If any mistake is spotted in these notebooks, please let me know so that I may fix it! 
+
+In case there are any issues with displaying the notebooks through github, copy/paste the notebook url into nbviewer (https://nbviewer.jupyter.org/)
