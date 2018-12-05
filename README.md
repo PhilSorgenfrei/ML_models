@@ -1,8 +1,22 @@
 # tensorflow_notes
 
+## Content of this repository
+
 This repository contains tensorflow models I have written as part of my own education on the subject of machine learning. I am using jupyter notebooks and have tried to make them quite verbose to explain each step in a way that does not assume deep expertise of the subject itself or its implementation. I am not trying to maximize performance of the models, but rather use small datasets and little hyperparameter tuning just for the proof of concept and fast iterations.  
 
-My hope is that somebody might find some of the content useful to progress on their own journey in machine learning. 
+My hope is that somebody might find some of the content useful to progress on their own journey in machine learning
+
+#### TB_Xray_02 
+This notebook attempts detection of TB on X-ray images using various image transformations as well as incorporating a pre-trained image classifier through the tensorflow hub functionality
+
+#### hand_written_digts
+This notebook incorporates my notes on the classical hand-written digits classification problem
+
+#### Feature_engineering_01/02 
+These notebookes capture my notes on feature engineering based on the "google cloud - feature engineering" course on coursera and a housing price dataset. It focuses on tensorflow functionalities that aid in feature engineering and also covers some basic concepts, such as feature crosses, and embeddings
+
+
+## A brief guide to learners
 
 Since this repositiory does not cover much of the underlying theory of machine learning, I am also working on some notebooks that cover topics such as activation functions, loss functions, or parameter initialization: https://github.com/PhilSorgenfrei/ML_notes 
 
