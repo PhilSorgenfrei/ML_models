@@ -6,6 +6,9 @@ This repository contains tensorflow models I have written as part of my own educ
 
 My hope is that somebody might find some of the content useful to progress on their own journey in machine learning
 
+#### predictive_maintenance_aircraft_engines
+This notebooks attempts to predict engine failure events in advance of occuring based on time series sensor data. It uses a three-layer LSTM model
+
 #### TB_Xray_02 
 This notebook attempts detection of TB on X-ray images using various image transformations as well as incorporating a pre-trained image classifier through the tensorflow hub functionality
 
