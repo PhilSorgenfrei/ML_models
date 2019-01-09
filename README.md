@@ -2,7 +2,7 @@
 
 ## Content of this repository
 
-This repository contains tensorflow models I have written as part of my own education on the subject of machine learning. I am using jupyter notebooks and have tried to make them quite verbose to explain each step in a way that does not assume deep expertise of the subject itself or its implementation. I am not trying to maximize performance of the models, but rather use small datasets and little hyperparameter tuning just for the proof of concept and fast iterations.  
+This repository contains ML models I have written as part of my own education on the subject of machine learning. I am using jupyter notebooks and have tried to make them quite verbose to explain each step in a way that does not assume deep expertise of the subject itself or its implementation. I am not trying to maximize performance of the models, but rather use small datasets and little hyperparameter tuning just for the proof of concept and fast iterations.  
 
 My hope is that somebody might find some of the content useful to progress on their own journey in machine learning
 
