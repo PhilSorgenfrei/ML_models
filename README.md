@@ -6,6 +6,9 @@ This repository contains tensorflow models I have written as part of my own educ
 
 My hope is that somebody might find some of the content useful to progress on their own journey in machine learning
 
+####credit_card_fraud_detection
+This notebooks attempts to predict fraudulent credit card transactions using a gradient boosted decision tree
+
 #### predictive_maintenance_aircraft_engines
 This notebooks attempts to predict engine failure events in advance of occuring based on time series sensor data. It uses a three-layer LSTM model
 
