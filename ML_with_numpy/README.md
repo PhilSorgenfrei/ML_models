@@ -1,6 +1,6 @@
 # ML_with_numpy
 
-This repository uses the Titanic dataset from kaggle to train and test a numpy deep neural network. The model is heavily inspired by (and indeed is mostly a generalization of) numpy building blocks introduced by Andrew Ng in his excellent deep learning specialization course (https://www.deeplearning.ai/)
+This folder uses the Titanic dataset from kaggle to train and test a numpy deep neural network. The model is heavily inspired by (and indeed is mostly a generalization of) numpy building blocks introduced by Andrew Ng in his excellent deep learning specialization course (https://www.deeplearning.ai/)
 
 The "Numpy_model" folder contains the following: 
 - Titanic_data.ipynb: Data exploration and pre-processing 
