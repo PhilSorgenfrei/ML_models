@@ -6,7 +6,7 @@ This repository contains ML models I have written as part of my own education on
 
 My hope is that somebody might find some of the content useful to progress on their own journey in machine learning
 
-### Genetic_routing
+#### Genetic_routing
 This notebook tackles the "traveling salesman problem" by using a genetic algorithm to find optimal (i.e., fast) multi-stop routes
 
 #### Predictive_maintenance_aircraft_engines
