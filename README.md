@@ -6,16 +6,19 @@ This repository contains ML models I have written as part of my own education on
 
 My hope is that somebody might find some of the content useful to progress on their own journey in machine learning
 
-#### credit_card_fraud_detection
-This notebooks attempts to predict fraudulent credit card transactions using a gradient boosted decision tree
+### Genetic_routing
+This notebook tackles the "traveling salesman problem" by using a genetic algorithm to find optimal (i.e., fast) multi-stop routes
 
-#### predictive_maintenance_aircraft_engines
+#### Predictive_maintenance_aircraft_engines
 This notebooks attempts to predict engine failure events in advance of occuring based on time series sensor data. It uses a three-layer LSTM model
+
+#### Credit_card_fraud_detection
+This notebooks attempts to predict fraudulent credit card transactions using a gradient boosted decision tree
 
 #### TB_Xray_02 
 This notebook attempts detection of TB on X-ray images using various image transformations as well as incorporating a pre-trained image classifier through the tensorflow hub functionality
 
-#### hand_written_digts
+#### Hand_written_digts
 This notebook incorporates my notes on the classical hand-written digits classification problem
 
 #### Feature_engineering_01/02 
