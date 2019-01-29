@@ -15,6 +15,9 @@ This notebooks attempts to predict engine failure events in advance of occurring
 #### Credit_card_fraud_detection
 This notebooks attempts to predict fraudulent credit card transactions using a gradient boosted decision tree
 
+#### Contextual Multi-Armed Bandits 
+This notebooks is a gentle introduction to the Multi-Armed Bandit problem 
+
 #### TB_Xray_02 
 This notebook attempts detection of TB on X-ray images using various image transformations as well as incorporating a pre-trained image classifier through the tensorflow hub functionality
 
