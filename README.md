@@ -21,6 +21,9 @@ This notebooks is a gentle introduction to the Multi-Armed Bandit problem
 #### TB_Xray_02 
 This notebook attempts detection of TB on X-ray images using various image transformations as well as incorporating a pre-trained image classifier through the tensorflow hub functionality
 
+#### Understanding model predictions with LIME
+This notebook uses the LIME package to analyze indiviudal predictions of a credit default predictor for small businesses 
+
 #### Tutorial: Hand_written_digts
 This notebook incorporates my notes on the classical hand-written digits classification problem
 
@@ -36,6 +39,7 @@ For those who are just beginning to learn more about machine learning, I can who
 
 - CS50, Introduction to Computer Science (Harvardx): This course is excellent for all those who want to learn programming (or those who were always curious about the difference between linked lists, hash tables, and tries;) 
 - deeplearning.ai (coursera, Andrew Ng): Andrew does a phenomenal job in teaching neural networks starting with the most basic calculus and linear algebra. I believe there is nothing more informative than implementing forward and backprop in raw numpy and I have him to thank for making the topic so very accessible. There is also no shortage of more practical concepts (especially hyperparameter tuning) and more complex and recent model architectures (deep CNNs, or LSTMs come particularly to mind)
+- CS231n, Convolutional Neural Networks for Visual Recognition: This Stanford course by Andrej Karpathy offers an excellent introduction to image recognition (http://cs231n.stanford.edu/)
 - Andrej Karpathy's blog (https://medium.com/@karpathy): This apparently happens when somebody who knows a topic deeply takes the time to explain it to the rest of us - pure gold! 
 
 If any mistake is spotted in these notebooks, please let me know so that I may fix it! 
